@@ -62,7 +62,7 @@ A list of objection.lol projects on the internet (generally on github-gitlab-pyp
 - [adamantii/objection.py](https://github.com/adamantii/objection.py) => A modular library for creating objection.lol projects beyond what's possible manually.
 -[(N-A)objectionlol-project-compilation/objection-lol-wrapper](https://github.com/objectionlol-project-compilation/objection-lol-wrapper) => Python wrapper for objection.lol .
 
-##Communities
+## Communities
 ### Discord
 - [The Entire Circus](https://discord.com/invite/tQGqubBanw) => A discord server about many topics, including objection.lol
 - [The Untitled Courtroom](https://discord.com/invite/aX9Y5g9uwY) => The hub of objection.lol on discord. Sylveon joins the server on rare occasions.
