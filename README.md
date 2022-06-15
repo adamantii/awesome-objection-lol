@@ -1,5 +1,7 @@
 # Objection.lol the List
-A list of objection.lol projects on the internet (generally on github-gitlab-pypi and similar sites). It is not listed in a particular order.
+A list of objection.lol projects on the internet (generally on github-gitlab-pypi and similar sites). It is not listed in a particular order. 
+
+**You can add other items to the list. Create an issue or a pull request to do so**
 
 <details>
 <summary>Terminology</summary>
