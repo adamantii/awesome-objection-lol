@@ -24,7 +24,7 @@ A list of objection.lol projects on the internet (generally on github-gitlab-pyp
       <td>Not maintained anymore(No-Activity)</td>
     <tr>
       <td>Sylveon</td>
-      <td> Sylveon is the nickname of the objection.lol's developer. (Yes i know it is also a pokemon)
+      <td> Sylveon is the nickname of objection.lol's developer. (Yes i know it is also a pokemon)
     </tr>
   </table>
 </details>
