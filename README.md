@@ -53,7 +53,7 @@ A list of objection.lol projects on the internet (generally on github-gitlab-pyp
 
 ## Tools
 - [adamantii/hold-it-lol](https://github.com/adamantii/hold-it-lol) => Quality of life https://objection.lol/courtroom courtroom features & tweaks, ranging from tiny UI changes to roleplay testimony UIs. (chrome extension)
--[Erdal-oz/objectiontotxt](https://github.com/Erdal-oz/objectiontotxt) => A really really simple script to convert objection files to readable txt files.
+- [Erdal-oz/objectiontotxt](https://github.com/Erdal-oz/objectiontotxt) => A really really simple script to convert objection files to readable txt files.
 
 ### Automation
 - [lambdadog/objection.lol-nicknamer](https://github.com/lambdadog/objection.lol-nicknamer) => A scrappy and hacked together nicknamer for objection.lol that lets you assign nicknames to characters in your objection instead of needing to manually nickname every single scene.
