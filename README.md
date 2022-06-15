@@ -39,4 +39,4 @@ Contributions are most welcome. You can create an issue or pull request to add t
 - [The Entire Circus](https://discord.com/invite/tQGqubBanw) — An Ace Attorney server about many topics, including objection.lol.
 
 ### Wiki
-- [Objection.lol Wiki](https://objectionlol.fandom.com/wiki/Objection_dot_lol_Wiki) — Currently the only objection.lol wiki as far as i am aware.
+- [Objection.lol Wiki](https://objectionlol.fandom.com/wiki/Objection_dot_lol_Wiki) — Currently the only objection.lol wiki.
