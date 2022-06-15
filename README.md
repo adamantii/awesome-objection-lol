@@ -24,16 +24,15 @@ Contributions are most welcome. You can create an issue or pull request to add t
 # Assets
 ### Ace Attorney
 - [96-LB/objection.troll](https://github.com/96-LB/objection.troll) — A collection of AAI, AJ, Trilogy sprites and sounds as well as custom assets hosted with [jsdelivr.com](https://jsdelivr.com).
-- [LukeTramontozzi/Objection.lol-Assets](https://github.com/LukeTramontozzi/Objection.lol-Assets) — Ace Attorney sound effects and some HD evidence
 - [Beelzebold/objlol](https://github.com/Beelzebold/Objlol) — Miscellaneous Ace Attorney music and DS sprites. Includes DS psyche-lock animations.
 - [ch33bu/objection-lol-music-stuff](https://github.com/ch33bu/objection-lol-music-stuff) — Dual Destinies OST 2-16 Pursuit ~ Keep Pressing On (Variation).mp3
+- [LukeTramontozzi/Objection.lol-Assets](https://github.com/LukeTramontozzi/Objection.lol-Assets) — Ace Attorney sound effects and some HD evidence
 
 ### Non-AA 
+- [Beelzebold/aa-objlol-doomimp](https://github.com/Beelzebold/aa-objlol-doomimp) — Doom imp custom character assets
 - [HazmatDrone/mapart-turnabout](https://github.com/HazmatDrone/mapart-turnabout) — Minecraft-themed objection assets
 - [HazmatDrone/t615j-objection-lol](https://github.com/HazmatDrone/t615j-objection-lol) — T615-J custom character assets
-- [Beelzebold/aa-objlol-doomimp](https://github.com/Beelzebold/aa-objlol-doomimp) — Doom imp custom character assets
 - [PositiveNull99.github.io](https://github.com/PositiveNull99/PositiveNull99.github.io) — PositiveNull99's objection.lol sounds and image
-
 
 
 # Tools
