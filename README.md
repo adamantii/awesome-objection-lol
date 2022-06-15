@@ -60,7 +60,7 @@ A list of objection.lol projects on the internet (generally on github-gitlab-pyp
 
 #### API wrappers
 - [adamantii/objection.py](https://github.com/adamantii/objection.py) => A modular library for creating objection.lol projects beyond what's possible manually.
--[(N-A)objectionlol-project-compilation/objection-lol-wrapper](https://github.com/objectionlol-project-compilation/objection-lol-wrapper) => Python wrapper for objection.lol .
+- [(N-A)objectionlol-project-compilation/objection-lol-wrapper](https://github.com/objectionlol-project-compilation/objection-lol-wrapper) => Python wrapper for objection.lol .
 
 ## Communities
 ### Discord
