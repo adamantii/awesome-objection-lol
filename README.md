@@ -65,7 +65,7 @@ A list of objection.lol projects on the internet (generally on github-gitlab-pyp
 ##Communities []() => 
 ### Discord
 - [The Entire Circus](https://discord.com/invite/tQGqubBanw) => A discord server about many topics, including objection.lol
-- [The Untitled Courtroom](https://discord.com/invite/aX9Y5g9uwY) => The hub of objection.lol on discord.
+- [The Untitled Courtroom](https://discord.com/invite/aX9Y5g9uwY) => The hub of objection.lol on discord. Sylveon joins the server on rare occasions.
 - [Court Order](https://discord.gg/5dMRR37FWt) =>  A community of courtrooms, roleplay, and (like 3 people discussing) technical objectionlol
 
 ### Wiki
