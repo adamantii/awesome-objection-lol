@@ -1,74 +1,45 @@
-# Objection.lol the List
-A list of objection.lol projects on the internet (generally on github-gitlab-pypi and similar sites). It is not listed in a particular order. 
+# awesome-objection-lol
+A list of public objection.lol-related projects and resources.
 
-**You can add other items to the list. Create an issue or a pull request to do so**
+Contributions are most welcome. You can create an issue or pull request to add to the list.
 
-<details>
-<summary>Terminology</summary>
-  <table>
-    <tr>
-      <th>Term</th>
-      <th>Meaning</th>
-    </tr>
-    <tr>
-      <td>AA</td>  
-      <td>Contains Ace Attorney related content.</td>
-    </tr>
-      <td>Non-AA</td>
-      <td>Does not contain Ace Attorney related content.</td>
-    <tr>
-      <td>In-AA</td>
-      <td>Includes Ace Attorney related content.</td>
-    </tr>
-      <td>N-A</td>
-      <td>Not maintained anymore(No-Activity)</td>
-    <tr>
-      <td>Sylveon</td>
-      <td> Sylveon is the nickname of objection.lol's developer. (Yes i know it is also a pokemon)
-    </tr>
-  </table>
-</details>
-
----
+# Table of contents
+- [Communities](#communities)
+- [Assets](#assets)
+    - [Ace Attorney](#ace-attorney)
+    - [Non-AA](#non-aa)
+- [Tools](#tools)
 
 
-| Type                        | Description                                     |
-|-----------------------------|-------------------------------------------------|
-| [Assets](#Assets)           | Characters, Music, Sprites etc.                 |
-| [Tools](#Tools)             | API libraries-Automation Tools, Extensions etc. |
-| [Communities](#Communities) | Wikis, Forums and other Social Media Platforms  |
-
-
-## Assets
-- [Beelzebold/Objlol](https://github.com/Beelzebold/Objlol) => AA assets(Sprites and Music). Includes psychelock animations.
-- [96-LB/objection.troll](https://github.com/96-LB/objection.troll) => AA assets for objection.lol hosted via https://www.jsdelivr.com/ for objection.lol. Includes character sprites, music, sound effects, popups, AAI backgrounds and evidence. 
-- [(N-A)ch33bu/objection-lol-music-stuff](https://github.com/ch33bu/objection-lol-music-stuff) => Dual Destinies OST 2-16 Pursuit ~ Keep Pressing On (Variation).mp3
-- [LukeTramontozzi/Objection.lol-Assets](https://github.com/LukeTramontozzi/Objection.lol-Assets) => Ace Attorney assets (evidence images and sound effects)
-
-### Non-AA Assets 
-- [HazmatDrone/mapart-turnabout](https://github.com/HazmatDrone/mapart-turnabout) => Assets for a minecraft-themed objection.lol case/scene
-- [PositiveNull99/PositiveNull99.github.io](https://github.com/PositiveNull99/PositiveNull99.github.io) => An image and few audio files for PositiveNull99's objection.lol affairs
-- [HazmatDrone/t615j-objection-lol](https://github.com/HazmatDrone/t615j-objection-lol) => T615-J Custom objection.lol character
-- [Beelzebold/aa-objlol-doomimp (Non-AA)](https://github.com/Beelzebold/aa-objlol-doomimp) => Images and sound files for a custom character
-
-
-
-## Tools
-- [adamantii/hold-it-lol](https://github.com/adamantii/hold-it-lol) => Quality of life https://objection.lol/courtroom courtroom features & tweaks, ranging from tiny UI changes to roleplay testimony UIs. (chrome extension)
-- [Erdal-oz/objectiontotxt](https://github.com/Erdal-oz/objectiontotxt) => A really really simple script to convert objection files to readable txt files.
-
-### Automation
-- [lambdadog/objection.lol-nicknamer](https://github.com/lambdadog/objection.lol-nicknamer) => A scrappy and hacked together nicknamer for objection.lol that lets you assign nicknames to characters in your objection instead of needing to manually nickname every single scene.
-
-#### API wrappers
-- [adamantii/objection.py](https://github.com/adamantii/objection.py) => A modular library for creating objection.lol projects beyond what's possible manually.
-- [(N-A)objectionlol-project-compilation/objection-lol-wrapper](https://github.com/objectionlol-project-compilation/objection-lol-wrapper) => Python wrapper for objection.lol .
-
-## Communities
+# Communities
 ### Discord
-- [The Entire Circus](https://discord.com/invite/tQGqubBanw) => A discord server about many topics, including objection.lol (Also contains custom characters,  I don't know how many)
-- [The Untitled Courtroom](https://discord.com/invite/aX9Y5g9uwY) => The hub of objection.lol on discord. Sylveon joins the server on rare occasions. (Also contains more than 2k characters)
-- [Court Order](https://discord.gg/5dMRR37FWt) =>  A community of courtrooms, roleplay, and (like 3 people discussing) technical objectionlol
+- [The Untitled Courtroom](https://discord.com/invite/aX9Y5g9uwY) — The hub of objection.lol on discord. Has the largest quantity of content creators and custom assets (houses over 2k characters).
+- [Court Order](https://discord.gg/5dMRR37FWt) — A community of courtrooms, casing, and (like 3 people discussing) technical objection.lol.
+- [The Entire Circus](https://discord.com/invite/tQGqubBanw) — An Ace Attorney server about many topics, including objection.lol.
 
 ### Wiki
-- [Objection.lol wiki](https://objectionlol.fandom.com/wiki/Objection_dot_lol_Wiki) => Currently the only objection.lol wiki as far as i am aware.
+- [Objection.lol Wiki](https://objectionlol.fandom.com/wiki/Objection_dot_lol_Wiki) — Currently the only objection.lol wiki.
+
+
+# Assets
+### Ace Attorney
+- [96-LB/objection.troll](https://github.com/96-LB/objection.troll) — A collection of AAI, AJ, Trilogy sprites and sounds as well as custom assets hosted with [jsdelivr.com](https://jsdelivr.com).
+- [LukeTramontozzi/objection.lol-assets](https://github.com/LukeTramontozzi/Objection.lol-Assets) — Ace Attorney sound effects and some HD evidence
+- [beelzebold/objlol](https://github.com/Beelzebold/Objlol) — Miscellaneous Ace Attorney music and DS sprites. Includes DS psyche-lock animations.
+- [ch33bu/objection-lol-music-stuff](https://github.com/ch33bu/objection-lol-music-stuff) — Dual Destinies OST 2-16 Pursuit ~ Keep Pressing On (Variation).mp3
+
+### Non-AA 
+- [HazmatDrone/mapart-turnabout](https://github.com/HazmatDrone/mapart-turnabout) — Minecraft-themed objection assets
+- [HazmatDrone/t615j-objection-lol](https://github.com/HazmatDrone/t615j-objection-lol) — T615-J custom character assets
+- [Beelzebold/aa-objlol-doomimp](https://github.com/Beelzebold/aa-objlol-doomimp) — Doom imp custom character assets
+- [PositiveNull99.github.io](https://github.com/PositiveNull99/PositiveNull99.github.io) — PositiveNull99's objection.lol sounds and image
+
+
+
+# Tools
+- [adamantii/hold-it-lol](https://github.com/adamantii/hold-it-lol) — Chrome extension for various quality of life [courtroom](https://objection.lol/courtroom) tweaks.
+- [adamantii/objection.py](https://github.com/adamantii/objection.py) — Modular Python library for generating objections beyond what's possible manually.
+- [Erdal-oz/objectiontotxt](https://github.com/Erdal-oz/objectiontotxt) — Simple converter for .objection files to readable txt files.
+- [lambdadog/objection.lol-nicknamer](https://github.com/lambdadog/objection.lol-nicknamer) — An alias generator to automatically assign nicknames to characters (not maintained).
+- [objectionlol-project-compilation/objection-lol-wrapper](https://github.com/objectionlol-project-compilation/objection-lol-wrapper) — Python wrapper for the [courtroom](https://objection.lol/courtroom) interface (not maintained).
+
