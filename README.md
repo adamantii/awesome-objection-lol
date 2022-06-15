@@ -40,7 +40,7 @@ A list of objection.lol projects on the internet (generally on github-gitlab-pyp
 ## Assets
 - [Beelzebold/Objlol](https://github.com/Beelzebold/Objlol) => AA assets(Sprites and Music). Includes psychelock animations.
 - [96-LB/objection.troll](https://github.com/96-LB/objection.troll) => AA assets for objection.lol hosted via https://www.jsdelivr.com/ for objection.lol. Includes character sprites, music, sound effects, popups, AAI backgrounds and evidence. 
-- [ch33bu/objection-lol-music-stuff](https://github.com/ch33bu/objection-lol-music-stuff) => Dual Destinies OST 2-16 Pursuit ~ Keep Pressing On (Variation).mp3
+- [(N-A)ch33bu/objection-lol-music-stuff](https://github.com/ch33bu/objection-lol-music-stuff) => Dual Destinies OST 2-16 Pursuit ~ Keep Pressing On (Variation).mp3
 - [LukeTramontozzi/Objection.lol-Assets](https://github.com/LukeTramontozzi/Objection.lol-Assets) => Ace Attorney assets (evidence images and sound effects)
 
 ### Non-AA Assets 
@@ -60,7 +60,7 @@ A list of objection.lol projects on the internet (generally on github-gitlab-pyp
 
 #### API wrappers
 - [adamantii/objection.py](https://github.com/adamantii/objection.py) => A modular library for creating objection.lol projects beyond what's possible manually.
--[objectionlol-project-compilation/objection-lol-wrapper](https://github.com/objectionlol-project-compilation/objection-lol-wrapper) => Python wrapper for objection.lol .
+-[(N-A)objectionlol-project-compilation/objection-lol-wrapper](https://github.com/objectionlol-project-compilation/objection-lol-wrapper) => Python wrapper for objection.lol .
 
 ##Communities []() => 
 ### Discord
