@@ -29,10 +29,10 @@ Contributions are most welcome. You can create an issue or pull request to add t
 - [LukeTramontozzi/Objection.lol-Assets](https://github.com/LukeTramontozzi/Objection.lol-Assets) — Ace Attorney sound effects and some HD evidence.
 
 ### Non-AA 
-- [Beelzebold/aa-objlol-doomimp](https://github.com/Beelzebold/aa-objlol-doomimp) — Doom imp custom character assets
-- [HazmatDrone/mapart-turnabout](https://github.com/HazmatDrone/mapart-turnabout) — Minecraft-themed objection assets
-- [HazmatDrone/t615j-objection-lol](https://github.com/HazmatDrone/t615j-objection-lol) — T615-J custom character assets
-- [PositiveNull99.github.io](https://github.com/PositiveNull99/PositiveNull99.github.io) — PositiveNull99's objection.lol sounds and image
+- [Beelzebold/aa-objlol-doomimp](https://github.com/Beelzebold/aa-objlol-doomimp) — Doom imp custom character assets.
+- [HazmatDrone/mapart-turnabout](https://github.com/HazmatDrone/mapart-turnabout) — Minecraft-themed objection assets.
+- [HazmatDrone/t615j-objection-lol](https://github.com/HazmatDrone/t615j-objection-lol) — T615-J custom character assets.
+- [PositiveNull99.github.io](https://github.com/PositiveNull99/PositiveNull99.github.io) — PositiveNull99's objection.lol sounds and image.
 
 
 # Tools
