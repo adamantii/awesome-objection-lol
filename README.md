@@ -1,5 +1,5 @@
 # awesome-objection-lol
-A list of public objection.lol-related projects and resources.
+A ~~curated~~ list of public objection.lol-related projects and resources.
 
 Contributions are most welcome. You can create an issue or pull request to add to the list.
 
