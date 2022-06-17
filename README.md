@@ -40,5 +40,5 @@ Contributions are most welcome. You can create an issue or pull request to add t
 - [adamantii/objection.py](https://github.com/adamantii/objection.py) — Modular Python library for generating objections beyond what's possible manually.
 - [Erdal-oz/objectiontotxt](https://github.com/Erdal-oz/objectiontotxt) — Simple converter for .objection files to readable txt files.
 - [lambdadog/objection.lol-nicknamer](https://github.com/lambdadog/objection.lol-nicknamer) — An alias generator to automatically assign nicknames to characters (not maintained).
-- [objectionlol-project-compilation/objection-lol-wrapper](https://github.com/objectionlol-project-compilation/objection-lol-wrapper) — Python wrapper for the [courtroom](https://objection.lol/courtroom) interface (not maintained).
+- [LeNya/python-objectionlol](https://gitlab.com/LeNya/python-objectionlol) — Python wrapper for the [courtroom](https://objection.lol/courtroom) interface (not maintained).
 
